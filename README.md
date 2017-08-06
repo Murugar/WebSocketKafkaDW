@@ -1,0 +1,2 @@
+# WebSocketKafkaDW
+DropWizard Kafka WebSocket
